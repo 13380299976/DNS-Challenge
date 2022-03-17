@@ -2,7 +2,7 @@
 """
 Created on Fri Nov  1 10:28:41 2019
 
-@author: rocheng
+
 """
 import os
 import csv
